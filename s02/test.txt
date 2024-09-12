@@ -1,0 +1,73 @@
+html 
+
+head
+
+meta
+
+body
+
+script
+
+noscript : afficher un message si le navigateur ne support javascript
+
+title
+
+link : lier d'autre fichiers (css js ...)
+
+a : lien
+
+i : italic
+
+small : 
+
+strong : gras
+
+b : gras
+
+br : retour a ligne
+
+div : division
+
+span : partie du texte
+
+h1 h2 h3 h4 h5 h6 : titres de niveau 1 a 6 (headers)
+
+hr : ligne horizental
+
+p : paragraphe
+
+main
+
+nav : menu
+
+footer 
+
+header
+
+section
+
+img : image
+
+input : champ de saisie (1 ligne)
+
+textarea : champ de saisie (plusieurs lignes)
+
+button
+
+label : description de l'input
+
+form : formulaire
+
+style : ajouter css
+
+script : ajouter js
+
+ul : list non ordonnée
+
+ol : list ordonnée (1 2 3 ...)
+
+li : list item ( de la liste)
+
+iframe : integer une partie d'une autre page web ou service
+
+video : 
